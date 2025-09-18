@@ -1,4 +1,4 @@
-package com.horodenko.Game_Library;
+package com.horodenko.gamelibrary;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
