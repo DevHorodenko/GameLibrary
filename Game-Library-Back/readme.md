@@ -32,7 +32,7 @@ A RESTful API for managing a personal game library, built with Spring Boot, Spri
 1. **Clone the repository:**
 
    ```
-   git clone https://github.com/yourusername/Game-Library-Back.git
+   git clone https://github.com/DevHorodenko/GameLibrary.git
    ```
 
 2. **Configure the database:**
@@ -74,3 +74,4 @@ Use the credentials defined in `application.properties`.
 ## License
 
 This project is licensed under the MIT License.
+
